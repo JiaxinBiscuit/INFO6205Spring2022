@@ -89,7 +89,7 @@ public class test {
 
 
 
-        //Assignment 2
+        /*Assignment 2
         //Q1
         int[] arr = {1,3,5,6};
         int target = 5;
@@ -164,6 +164,9 @@ public class test {
             System.out.print("]" );
         }
         System.out.print("]" );
+        */
+
+
 
 
 

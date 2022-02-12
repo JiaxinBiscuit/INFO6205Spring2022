@@ -6,6 +6,7 @@
       <sourceFolder url="file://$MODULE_DIR$/assignment1" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/assignment2" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Main" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/assignment3" isTestSource="false" />
     </content>
     <orderEntry type="jdk" jdkName="1.8" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
