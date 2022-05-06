@@ -40,7 +40,6 @@ public class Question2 {
                 int jj = col + dir[1];
                 if (ii >= 0 && ii < grid.length && jj >= 0 && jj < grid[0].length && grid[ii][jj] == '1' && visited[ii][jj] == false) {
                     queue.offer(new int[]{ii, jj});
-                    visited[ii][jj] = true;
                 }
             }
         }

@@ -21,6 +21,9 @@ public class Question1 {
                 count++;
             }
         }
+        if (sb.length() >= str.length()) {
+            return str;
+        }
 
         return sb.toString();
     }
