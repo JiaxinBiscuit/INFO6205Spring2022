@@ -15,6 +15,5 @@ public class Question4 {
         }
 
         return leftNode == null? rightNode:leftNode;
-
     }
 }
